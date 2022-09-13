@@ -1,3 +1,5 @@
+# https://stepik.org/lesson/512854/step/16?unit=505068
+
 from functools import reduce
 
 def evaluate(coeficients, x):
