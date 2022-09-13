@@ -1,3 +1,5 @@
+# task link: https://stepik.org/lesson/416755/step/9?unit=406263 (module 4.5 step 9)
+
 n = int(input())
 matrix = []
 matrix_column = []
