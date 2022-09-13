@@ -1,3 +1,5 @@
+# Task link: https://stepik.org/lesson/416756/step/10?unit=406264
+
 n = int(input())
 matrix1 = []
 matrix2 = []
