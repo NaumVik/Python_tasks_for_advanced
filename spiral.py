@@ -1,3 +1,6 @@
+# task link: https://stepik.org/lesson/416757/step/10?unit=406265 (module 4.6, step 10)
+# fill  matrix like spiral
+
 s = input().split()
 row = int(s[0])
 column = int(s[1])
