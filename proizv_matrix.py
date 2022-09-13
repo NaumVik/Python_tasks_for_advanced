@@ -1,4 +1,5 @@
-# Task link: https://stepik.org/lesson/416756/step/10?unit=406264
+# Task link: https://stepik.org/lesson/416756/step/10?unit=406264 (module 4.7 step 10)
+# matix * matrix
 
 n = int(input())
 matrix1 = []
