@@ -1,4 +1,4 @@
-# https://stepik.org/lesson/512854/step/16?unit=505068
+# https://stepik.org/lesson/512854/step/16?unit=505068 (module 15.8 step 16)
 
 from functools import reduce
 
