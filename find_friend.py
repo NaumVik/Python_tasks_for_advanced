@@ -1,3 +1,4 @@
+#task link: https://stepik.org/lesson/356380/step/12?unit=340495(module 12.2 step 12)
 from random import choice
 
 n = int(input())
