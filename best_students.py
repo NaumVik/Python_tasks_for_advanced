@@ -1,3 +1,4 @@
+#task link: https://stepik.org/lesson/511854/step/14?unit=504046(module 15.9 step 14)
 n = int(input())
 students = {}
 for i in range(1, n + 1):
